@@ -15,8 +15,8 @@ Create a new config file at path `~/.ssh/config`. An example of ssh config file 
 ```
 Host blog
 	HostName tangning.me
-	ForwardKey yes #forward your ssh key
 	User root
+	IdentityFile ~/.ssh/some.key
 ```
 With the new config file just created, you can ssh into the remote server using just
 ```
