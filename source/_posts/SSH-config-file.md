@@ -47,7 +47,7 @@ $ ssh-copy-id user@123.45.56.78
 PasswordAuthentication no
 ```
 
-####Make it more convenient
+##### Make it more convenient
 Normally when ssh into a remote server, we have to type commands like this:
 
 ```
