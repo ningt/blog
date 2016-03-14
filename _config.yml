@@ -67,6 +67,10 @@ pagination_dir: page
 theme: next 
 disqus_shortname: ningt
 
+# Social links
+social:
+  github: https://github.com/ningt
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
