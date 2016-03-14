@@ -4,7 +4,7 @@
 
 # Site
 title: Tang Ning's blog
-subtitle:
+subtitle: some quick notes for myself
 description: Less is more
 author: ningt 
 avatar: https://avatars3.githubusercontent.com/u/5404896?v=3&u=0b5320fc829c38eef2df38a8ba25601abc0e4d24&s=140
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://tangning.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
