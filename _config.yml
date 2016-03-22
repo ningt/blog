@@ -5,8 +5,8 @@
 # Site
 title: Tang Ning's blog
 subtitle: some quick notes for myself
-description: Less is more
-author: ningt 
+description: 目前是假性拖延症患者
+author: ningt
 avatar: https://avatars3.githubusercontent.com/u/5404896?v=3&u=0b5320fc829c38eef2df38a8ba25601abc0e4d24&s=140
 language: en
 timezone:
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next 
+theme: next
 disqus_shortname: ningt
 
 # Social links
@@ -77,5 +77,5 @@ deploy:
   type: rsync
   host: tangning.me
   user: ningt
-  root: /var/www/blog/ 
+  root: /var/www/blog/
   port: 22
