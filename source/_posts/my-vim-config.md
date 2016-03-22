@@ -1,10 +1,11 @@
-title: my vim config
+title: My vim config
 date: 2016-03-18 17:26:13
 tags: vim
 categories: vim
 ---
 I have used sublime for the past three years of my university life, honestly speaking, it's pretty, fast and has many handy plugins. I also used vim to edit config files on server, you know, on the terminal, it just works out of box. Recently I decided to use vim for my project as well, and I wanna share my vim config. I will keep updating this.
 
+<!--more-->
 
 ```
 syntax enable

@@ -12,6 +12,8 @@ $ vim /etc/ssh/sshd_config
 
 PermitRootLogin no
 ```
+<!--more-->
+
 - **Only allow specific users**
 
 ```
